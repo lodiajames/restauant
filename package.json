@@ -1,5 +1,5 @@
 {
-  "homepage": "http://lodiajames.github.io/restauant",
+
   "name": "gerich-restaurant",
   "version": "0.1.0",
   "private": true,
@@ -53,5 +53,5 @@
   "bugs": {
     "url": "https://github.com/lodiajames/restauant/issues"
   },
-  "homepage": "https://github.com/lodiajames/restauant#readme"
+  "homepage": "https://github.com/lodiajames/restauant"
 }

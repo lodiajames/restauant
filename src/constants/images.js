@@ -20,8 +20,10 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
+import whisper from  '../assets/whisper.png'
+import kevin from '../assets/kevin.png'
 
-export default {
+const exportedImages= {
   bg,
   chef,
   G,
@@ -44,4 +46,9 @@ export default {
   sign,
   quote,
   gericht,
+  whisper,
+  kevin
 };
+
+
+export default exportedImages
